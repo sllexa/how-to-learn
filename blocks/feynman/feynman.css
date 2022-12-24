@@ -3,4 +3,5 @@
   min-height: 890px;
   background: #f2f2f2 url(../../images/feynman.png) no-repeat bottom left;
   position: relative;
+  box-sizing: border-box;
 }

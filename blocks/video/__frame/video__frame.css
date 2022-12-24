@@ -1,10 +1,5 @@
 .video__frame {
   width: 515px;
   height: 316px;
-  margin-right: 20px;
   border: none;
-}
-
-.video__frame:last-of-type {
-  margin-right: 0;
 }
